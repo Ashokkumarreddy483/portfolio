@@ -378,6 +378,24 @@ article .icon {
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
+  
+}
+/* INTERNSHIP SECTION */
+
+
+.details-container {
+  padding: 1.5rem;
+  background: white;
+  border-radius: 2rem;
+  border: 0.1rem solid rgb(163, 163, 163);
+  text-align: center;
+}
+
+.experience-sub-title {
+  color: rgb(85, 85, 85);
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
 }
 
 /* CONTACT */
